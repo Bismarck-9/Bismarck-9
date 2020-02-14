@@ -1,0 +1,7 @@
+Proyecto de sistemas operativos distribuidos
+
+AWS Transfer for SFTP
+
+Servicio de SFTP completamente administrado
+
+Es un servicio completamente administrado que permite transferir archivos de manera directa desde y hacia Amazon S3 por medio del protocolo seguro de transferencia de archivos (SFTP), también conocido como “protocolo de transferencia de archivos de shell seguro” (SSH). 
